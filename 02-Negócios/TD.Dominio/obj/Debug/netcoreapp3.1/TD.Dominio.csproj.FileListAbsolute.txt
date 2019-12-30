@@ -1,0 +1,8 @@
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\bin\Debug\netcoreapp3.1\TD.Dominio.deps.json
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\bin\Debug\netcoreapp3.1\TD.Dominio.dll
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\bin\Debug\netcoreapp3.1\TD.Dominio.pdb
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\obj\Debug\netcoreapp3.1\TD.Dominio.csprojAssemblyReference.cache
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\obj\Debug\netcoreapp3.1\TD.Dominio.AssemblyInfoInputs.cache
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\obj\Debug\netcoreapp3.1\TD.Dominio.AssemblyInfo.cs
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\obj\Debug\netcoreapp3.1\TD.Dominio.dll
+D:\prg\2019-12-28\02\02-Negócios\TD.Dominio\obj\Debug\netcoreapp3.1\TD.Dominio.pdb

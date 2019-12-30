@@ -1,0 +1,8 @@
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\bin\Debug\netcoreapp3.1\TD.Aplicacao.deps.json
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\bin\Debug\netcoreapp3.1\TD.Aplicacao.dll
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\bin\Debug\netcoreapp3.1\TD.Aplicacao.pdb
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\obj\Debug\netcoreapp3.1\TD.Aplicacao.csprojAssemblyReference.cache
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\obj\Debug\netcoreapp3.1\TD.Aplicacao.AssemblyInfoInputs.cache
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\obj\Debug\netcoreapp3.1\TD.Aplicacao.AssemblyInfo.cs
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\obj\Debug\netcoreapp3.1\TD.Aplicacao.dll
+D:\prg\2019-12-28\02\02-Negócios\TD.Aplicacao\obj\Debug\netcoreapp3.1\TD.Aplicacao.pdb

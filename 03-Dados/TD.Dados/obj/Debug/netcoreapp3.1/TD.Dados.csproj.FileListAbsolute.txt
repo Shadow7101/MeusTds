@@ -1,0 +1,8 @@
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\bin\Debug\netcoreapp3.1\TD.Dados.deps.json
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\bin\Debug\netcoreapp3.1\TD.Dados.dll
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\bin\Debug\netcoreapp3.1\TD.Dados.pdb
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\obj\Debug\netcoreapp3.1\TD.Dados.csprojAssemblyReference.cache
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\obj\Debug\netcoreapp3.1\TD.Dados.AssemblyInfoInputs.cache
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\obj\Debug\netcoreapp3.1\TD.Dados.AssemblyInfo.cs
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\obj\Debug\netcoreapp3.1\TD.Dados.dll
+D:\prg\2019-12-28\02\03-Dados\TD.Dados\obj\Debug\netcoreapp3.1\TD.Dados.pdb
