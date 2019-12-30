@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\prg\\2019-12-28\\02\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj": {}
+    "D:\\prg\\MeusTDs\\MeusTDs\\MeusTds\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\prg\\2019-12-28\\02\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj": {
+    "D:\\prg\\MeusTDs\\MeusTDs\\MeusTds\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\prg\\2019-12-28\\02\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj",
+        "projectUniqueName": "D:\\prg\\MeusTDs\\MeusTDs\\MeusTds\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj",
         "projectName": "TD.Dominio",
-        "projectPath": "D:\\prg\\2019-12-28\\02\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj",
+        "projectPath": "D:\\prg\\MeusTDs\\MeusTDs\\MeusTds\\02-Negócios\\TD.Dominio\\TD.Dominio.csproj",
         "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-        "outputPath": "D:\\prg\\2019-12-28\\02\\02-Negócios\\TD.Dominio\\obj\\",
+        "outputPath": "D:\\prg\\MeusTDs\\MeusTDs\\MeusTds\\02-Negócios\\TD.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
